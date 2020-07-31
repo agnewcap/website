@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from './baileyandsammy.png';
+// import Image from './baileyandsammy.png';
 import './App.css';
 
 
@@ -8,7 +8,7 @@ function App() {
     <section className="App">
       <div>
         <h1>I love you Sammy</h1>
-        <p className="App"><img src={Image}></img></p>
+        <p className="App"></p>
       </div>
       
     </section>
