@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.jumbo {
+  text-align: center;
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+
+.jumbo Button{
+  background-color: white;
+}
+
+
