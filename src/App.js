@@ -7,7 +7,7 @@ function App() {
   return (
     <section className="App">
       <div>
-        <h1>I love you Sammy</h1>
+        <h1>I love you</h1>
         <p className="App"></p>
       </div>
       
